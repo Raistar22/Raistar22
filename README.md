@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ritik Kumar Pathak and I'm a Full-Stack-Developer, from India</h2>
+<h2 align="left">Hi ! My name is Ritik Kumar Pathak and I'm a Full-Stack-Developer, from India</h2>
 
 ###
 
